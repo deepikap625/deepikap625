@@ -125,7 +125,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="22"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="22"/>    
 </p>
-  <p>Built a QR code generator just for fun — users can enter text, choose size, and generate a scannable QR.  </p>
+  <p>Built a QR code generator just for fun — users can enter links/text, choose size, and generate a scannable QR.  </p>
 </div>
 ---
 
